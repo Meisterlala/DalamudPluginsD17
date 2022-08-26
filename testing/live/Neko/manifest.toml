@@ -5,7 +5,7 @@ owners = [
     "Meisterlala",
 ]
 project_path = "Neko"
-changelog = """Huge Update!
+changelog = """Huge Update!xx
 Neko Fans now has a configuration menu, which you can open with /nekocfg
 - Added options to change to Look and Feel of the Plugin
 - Added option to configure image preloading system
